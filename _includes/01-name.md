@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+# Miguel Rivera
+### A brand new developer and collaborator on GitHub!
